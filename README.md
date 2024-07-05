@@ -1,1 +1,1 @@
-This project is completely made of HTML,CSS and JAVASCRIPT.
+This project is completely made using HTML,CSS and JAVASCRIPT.
